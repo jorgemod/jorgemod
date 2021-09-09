@@ -1,6 +1,10 @@
-## Hi! welcome to my github 👋
+## Hi!👋 welcome to my Github 💻🔥
 
-![Alt text][id]
+![Texto alternativo](portrait.JPG)
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-`I'm  Jorge, you can know more about me at linkedin!`
+#### I am student at Benemérita Universidad Autónoma de Puebla with a great adaptation to changes, collaborative spirit and leadership🌞.
+
+## Contact me!
+
+
+
