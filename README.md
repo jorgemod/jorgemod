@@ -4,7 +4,7 @@
 #### a great adaptation to changes, collaborative spirit and leadership🌞.
 
 ```javascript
-```
+
   function test() {
     console.log("notice the blank line before this function?");
   }
