@@ -3,11 +3,11 @@
 #### I am student at Benemérita Universidad Autónoma de Puebla with
 #### a great adaptation to changes, collaborative spirit and leadership🌞.
 
-```js
+```javascript
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+  function test() {
+    console.log("notice the blank line before this function?");
+  }
 ```
 
 
