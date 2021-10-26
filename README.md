@@ -3,11 +3,49 @@
 #### I am student at Benemérita Universidad Autónoma de Puebla with
 #### a great adaptation to changes, collaborative spirit and leadership🌞.
 
-```javascript
 
-  function test() {
-    console.log("notice the blank line before this function?");
-  }
+```javascript
+  
+const programmingLanguages = () => {
+    return[
+        "C",
+        "C++",
+        "PHP",
+        "Python",
+        "JavaScript",
+        "TypeScript"
+    ]
+}
+const webDevelopment = () => {
+    return[
+        "HTML5",
+        "CSS",
+        "Boostrap",
+        "Angular",
+        "NodeJS",
+        "CodeIgniter"
+    ]
+}
+const dataBases = () => {
+    return[
+        "MYSQL",
+        "SQL",
+        "MongoDB"
+    ]
+}
+const devOps = () => {
+    return[
+        "MYSQL",
+        "SQL",
+        "MongoDB"
+    ]
+}
+const cloudBasedTechnologies = () => {
+    return[
+        "Azure"
+    ]
+}
+  
 ```
 
 
