@@ -1,9 +1,9 @@
-## Hi!👋 welcome to my Github 💻🔥
+# Hi!👋 welcome to my Github 💻🔥
 
 #### I am student at Benemérita Universidad Autónoma de Puebla with
 #### a great adaptation to changes, collaborative spirit and leadership🌞.
 
-
+## Technical Skills
 ```javascript
   
 const programmingLanguages = () => {
