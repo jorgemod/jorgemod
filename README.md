@@ -35,9 +35,7 @@ const dataBases = () => {
 }
 const devOps = () => {
     return[
-        "MYSQL",
-        "SQL",
-        "MongoDB"
+        "TeamCity"
     ]
 }
 const cloudBasedTechnologies = () => {
